@@ -1,2 +1,5 @@
 # hackathon_CCR
-Protótipo
+
+ Construir uma aplicação que possa ajudar os caminhoneiros.
+ 
+Protótipo.
